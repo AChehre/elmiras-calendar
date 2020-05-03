@@ -1,7 +1,7 @@
 using TestStack.BDDfy;
 using Xunit;
 
-namespace ElmiraCalendar.Tests
+namespace ElmiraCalendar.Tests.Stories
 {
 
     // TODO: change project name to Elmira Calendar
